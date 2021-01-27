@@ -1,0 +1,6 @@
+projectKey=Saix1020_soanr-pr-decoration
+serverUrl=http://10.157.14.71:9000
+serverVersion=8.6.0.39681
+dashboardUrl=http://10.157.14.71:9000/dashboard?id=Saix1020_soanr-pr-decoration
+ceTaskId=AXb1Ctvt4tZrdgBNdGAA
+ceTaskUrl=http://10.157.14.71:9000/api/ce/task?id=AXb1Ctvt4tZrdgBNdGAA
